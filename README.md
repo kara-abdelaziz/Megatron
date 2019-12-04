@@ -1,5 +1,7 @@
 # Megatron
 Megatron is the little sister of Gigatron, it is an attempt to modify/minimise some Hardware/Software aspects of Gigatron.
+
+# Description
 Megatron is based upon Gigatron which is a project consisting of the construction of a computer/console upon a bunch of elementary TTL 74 series logic chips, without using any advanced complex chip, like processors, microcontrollers, alu, graphic/sound controllers...etc. The project really consists of two parts, Hardware and Software. Megatron is an attempt to do some modifications and minimisations of the chip number and the display device (from where the name Megatron). Megatron is intended to be used with small handheld tft screens, thus adding higher resolution and more color depth instead of VGA in Gigatron. Megatron also adds special input/output unit to manage more input/output devices, which allows to add a native keyboard to Megatron. The software is meant to be compatible with Gigatron despite some mandatory code modification to manage the input/output unit. More details can be found below.
 
 # Simulation
