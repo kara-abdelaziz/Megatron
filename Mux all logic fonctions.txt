@@ -1,0 +1,38 @@
+Patern = E3E2E1E0 [A = S0 , B = S1]
+
+0000 -> 0
+0001 -> A nor B
+0010 -> A./B
+0011 -> /B
+
+0100 -> /A.B
+0101 -> /A
+0110 -> A xor B
+0111 -> A nand B
+
+1000 -> A and B
+1001 -> A xnor B
+1010 -> A
+1011 -> A or /B
+
+1100 -> B
+1101 -> /A or B
+1110 -> A or B
+1111 -> 1
+
+parterns used in ALU:
+
+Left :
+0      -> 0000
+A      -> 1010
+
+Right:
+B        -> 1100  [LD]
+A and B  -> 1000  [AND]
+A or B   -> 1110  [OR]
+A xor B  -> 0110  [XOR]
+B        -> 1100  [ADD]
+/B       -> 0011  [SUB]
+0        -> 0000  [ST]
+/A       -> 0101  [Bcc]  
+

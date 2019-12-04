@@ -1,0 +1,35 @@
+v2.0 raw
+16*db 4*5f 4*9f 4*d7 4*f7 16*db 4*5f 4*9f
+4*d7 4*f7 16*db 4*5f 4*9f 4*d7 4*f7 16*db
+4*5f 4*9f 4*d7 4*f7 16*db 4*5f 4*9f 4*d7
+4*f7 16*db 4*5f 4*9f 4*d7 4*f7 df cf
+df df df cf df df df cf
+df df df cf df df 5f cf
+5f 5f 9f df 9f 9f df cf
+df df ff cf ff ff 4*dc 4*de
+4*df 4*de 4*df 4*de 4*df 4*de 16*db 4*5f
+4*9f 4*d7 4*f7 16*db 4*5f 4*9f 4*d7 4*f7
+16*db 4*5f 4*9f 4*d7 4*f7 16*db 4*5f 4*9f
+4*d7 4*f7 16*db 4*5f 4*9f 4*d7 4*f7 16*db
+4*5f 4*9f 4*d7 4*f7 df cf df df
+df cf df df df cf df df
+df cf df df 5f cf 5f 5f
+9f df 9f 9f df cf df df
+ff cf ff ff 4*dc 4*df 8*de 8*df
+8*de 16*db 4*5f 4*9f 4*d7 4*f7 16*db 4*5f
+4*9f 4*d7 4*f7 16*db 4*5f 4*9f 4*d7 4*f7
+16*db 4*5f 4*9f 4*d7 4*f7 16*db 4*5f 4*9f
+4*d7 4*f7 16*db 4*5f 4*9f 4*d7 4*f7 df
+cf df df df cf df df df
+cf df df df cf df df 5f
+cf 5f 5f 9f df 9f 9f df
+cf df df ff cf ff ff 4*dc
+12*df 16*de 16*db 4*5f 4*9f 4*d7 4*f7 16*db
+4*5f 4*9f 4*d7 4*f7 16*db 4*5f 4*9f 4*d7
+4*f7 16*db 4*5f 4*9f 4*d7 4*f7 16*db 4*5f
+4*9f 4*d7 4*f7 16*db 4*5f 4*9f 4*d7 4*f7
+df cf df df df cf df df
+df cf df df df cf df df
+5f cf 5f 5f 9f df 9f 9f
+df cf df df ff cf ff ff
+4*dc 28*df

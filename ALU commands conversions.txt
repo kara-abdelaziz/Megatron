@@ -1,0 +1,16 @@
+instr    ->  operation ->  74181 code
+
+LD(000)  ->  B         ->  1010 M=1 Cn=1
+AND(001) ->  A&B       ->  1011 M=1 Cn=1*
+OR(010)  ->  A|B       ->  1110 M=1 Cn=1*
+XOR(011) ->  A^B       ->  0110 M=1 Cn=1
+ADD(100) ->  A+B       ->  1001 M=0 Cn=1
+SUB(101) ->  A-B       ->  0110 M=0 Cn=0
+ST(110)  ->  A         ->  1111 M=1 Cn=1**
+Bcc(111) ->  A-1       ->  1111 M=0 Cn=1
+
+Magatron :
+ST(110xxx01) -> B      ->  1010 M=1 Cn=1
+
+
+

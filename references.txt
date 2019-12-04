@@ -1,0 +1,59 @@
+references  :
+
+0)   https://www.youtube.com/watch?v=QUfdASs82Lw
+0)   https://www.youtube.com/watch?v=Z0ZsKGKIgbU
+0)   https://www.youtube.com/watch?v=kfFewq0yAHE
+1)   https://www.youtube.com/watch?v=rbaAmnhZAis
+2)   https://www.youtube.com/watch?v=_2uXqTi42LI
+3)   https://www.youtube.com/watch?v=6vbI-r5aXJI
+4)   https://www.youtube.com/watch?v=TfhmOfD-tXA
+5)   https://www.youtube.com/watch?v=lO_9Zz5jzAA
+6)   https://www.youtube.com/watch?v=RmHNxG9Xvew
+7)   https://www.youtube.com/watch?v=wJO-DUDy330
+
+1)   https://gigatron.io/
+
+
+CPU :
+
+1)   8 bit RISC architecture.
+2)   CPU frequency 6.25 MHz.
+3)   CPU constructed from 7400 series.
+4)   8 instructions code  :
+
+	0.LD
+	1.ANDA
+	2.ORA
+	3.XORA
+	4.ADDA
+	5.SUBA
+	6.ST
+	7.J/Bcc
+
+Memory :
+
+1)   32KByte SRAM
+2)   64KWord EEPROM  (word 16 bits)
+
+Software :
+
+1)   Virtual CPU layer.
+1)   Virtual CPU frequency equivalent to 1 MHz.
+2)   34 instruction for Virtual CPU (similar to SWEET16 lagage).
+3)   GCL (Gigatron Control Langage).
+4)   User software.
+
+Inputs :
+
+1)   Game controlleur.
+2)   Programmer mode (same port as the game controller).
+
+Outputs :
+
+1)   VGA.
+2)   4 bits sounds (from the accumulator).
+3)   4 bits software channels (from the accumulator).
+4)   4 blinking LEDs.
+
+
+[Fr/En] Analyse du Gigatron TTL Computer, le comprendre et le simuler si possible.
